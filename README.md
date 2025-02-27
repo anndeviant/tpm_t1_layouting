@@ -1,6 +1,6 @@
 # tpm_t1_layouting
 
-A new Flutter project.
+### Install aja kang yng "NECache.apk"
 
 ## Getting Started
 
